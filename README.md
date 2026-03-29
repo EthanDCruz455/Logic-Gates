@@ -35,7 +35,9 @@ In this project, Logic Gates are implemented using **Data Flow**, **Behavioural*
 
 ---
 ## Symbols
-![Image](logic symbols.webp)
+![Image](logic_gates.jpg)
+
+---
 ## Waveforms
 ![Waveform](waveform.png)
 
