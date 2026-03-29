@@ -35,14 +35,14 @@ In this project, Logic Gates are implemented using **Data Flow**, **Behavioural*
 
 ---
 ## Symbols
-![Image](logic_gates.jpg)
+![Image](assets/logic_gates.jpg)
 
 ---
 ## Waveforms
-![Waveform](waveform.png)
+![Waveform](assets/waveform.png)
 
 ---
 ## Circuit
-![Waveform](schematic.png)
+![Waveform](assets/schematic.png)
 
 ---
